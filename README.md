@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Gen-AI developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=agkavin)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agkavin) 
 # 💫 About Me:
 🔭 I’m currently working on Transformer-based Applications  
 🌱 I’m currently learning Seq-2-Seq Transformers  
 👯 I’m looking to collaborate on Gen-AI based projects  
-📫 How to reach me: [agkavin7@gmail.com](mailto:agkavin7@gmail.com)  
+📫 How to reach me: [agkavin7@gmail.com](mailto:agkavin7@gmail.com) <br/>  
 <!--
 👨‍💻 All of my projects are available at [portfolio link]  
 📝 I regularly write articles on [blog link]  
 📄 Know about my experiences at [experience link] -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agkavin) 
 
 
 # 💻 Tech Stack:
