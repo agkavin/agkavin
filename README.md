@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavin AG</h1>
 <h3 align="center">A passionate Gen-AI developer</h3>
-![](https://komarev.com/ghpvc/?username=agkavin)
+[](https://komarev.com/ghpvc/?username=agkavin)
 
 - 🔭 I’m currently working on **Transformer based Applications**
 
