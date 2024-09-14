@@ -4,7 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=agkavin)
 
 # 💫 About Me:
-🔭 I’m currently working on Transformer based Applications<br><br>🌱 I’m currently learning Seq-2-Seq Transformers<br><br>👯 I’m looking to collaborate on Gen-AI based projects<br><br>📫 How to reach me agkavin7@gmail.com
+🔭 I’m currently working on Transformer-based Applications  
+🌱 I’m currently learning Seq-2-Seq Transformers  
+👯 I’m looking to collaborate on Gen-AI based projects  
+📫 How to reach me: [agkavin7@gmail.com](mailto:agkavin7@gmail.com)  
+<!--
+👨‍💻 All of my projects are available at [portfolio link]  
+📝 I regularly write articles on [blog link]  
+📄 Know about my experiences at [experience link] -->
+
 
 
 ## 🌐 Socials:
